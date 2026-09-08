@@ -1,0 +1,15 @@
+{
+  "name": "adaptation-routes-lab",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node tests/smoke.test.mjs"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
